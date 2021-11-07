@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWeb", "HelloWeb\HelloWeb.csproj", "{AA83DA8F-5D78-41D2-9E4B-F4C128AB12E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWeb.Tests", "HelloWeb.Tests\HelloWeb.Tests.csproj", "{2F9904AC-D853-48F6-9C57-3EF6B07FE291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA83DA8F-5D78-41D2-9E4B-F4C128AB12E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA83DA8F-5D78-41D2-9E4B-F4C128AB12E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA83DA8F-5D78-41D2-9E4B-F4C128AB12E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA83DA8F-5D78-41D2-9E4B-F4C128AB12E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9904AC-D853-48F6-9C57-3EF6B07FE291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9904AC-D853-48F6-9C57-3EF6B07FE291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9904AC-D853-48F6-9C57-3EF6B07FE291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9904AC-D853-48F6-9C57-3EF6B07FE291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CB9BC5-68DB-4998-8FF4-4528E1DE4DB3}
+	EndGlobalSection
+EndGlobal
